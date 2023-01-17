@@ -32,3 +32,13 @@
 Генерруем массив numpy из случайных целых чисел от 1 до 100 включительно. 
 
 :arrow_up:[к оглавлению](https://github.com/meshkova-if/SF_data_science/tree/main/project_0#Оглавление)
+
+### Результаты
+Алгоритм угадывает число в среднем за: 5 попыток
+
+:arrow_up:[к оглавлению](https://github.com/meshkova-if/SF_data_science/tree/main/project_0#Оглавление)
+
+### Выводы
+Метод половинного деления полностью справился со своей задачей
+
+:arrow_up:[к оглавлению](https://github.com/meshkova-if/SF_data_science/tree/main/project_0#Оглавление)
