@@ -11,7 +11,7 @@
 ### Описание проекта
 Угадай загаданное компьютером число за минимальное количество попыток.
 
-:arrow_app:[к оглавлению](https://github.com/meshkova-if/SF_data_science/tree/main/project_0#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/meshkova-if/SF_data_science/tree/main/project_0#Оглавление)
 
 
 ###Какой кейс решаем?
@@ -31,4 +31,4 @@
 ###Краткая информация о данных
 Генерруем массив numpy из случайных целых чисел от 1 до 100 включительно. 
 
-:arrow_app:[к оглавлению](https://github.com/meshkova-if/SF_data_science/tree/main/project_0#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/meshkova-if/SF_data_science/tree/main/project_0#Оглавление)
