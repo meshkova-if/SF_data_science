@@ -1,4 +1,4 @@
-#Проект 0. Угадай число.
+# Проект 0. Угадай число.
 
 ## Оглавление
 - [1. Описание проекта](https://github.com/meshkova-if/SF_data_science/blob/main/project_0/README.md#описание-проекта)
