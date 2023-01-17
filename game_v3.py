@@ -1,7 +1,7 @@
 """Игра угадай число"""
 import numpy as np
 def random_predict(number: int = 50) -> int: 
-    """ Функция укадывает число методом половинного деления
+    """Функция укадывает число методом половинного деления
     Args:
         number (int, optional): загаданное число. Defaults to 50.
     Returns:
@@ -45,6 +45,7 @@ def score_game(predict) -> int:
     print(f'Ваш алгоритм угадывает число в среднем за: {score} попыток')
     return(score)
 
-print(score_game(random_predict))
+# RUN
+score_game(random_predict)
 
 
